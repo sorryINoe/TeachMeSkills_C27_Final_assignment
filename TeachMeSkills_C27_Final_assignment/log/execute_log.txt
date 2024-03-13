@@ -1,0 +1,3 @@
+13/03/2024 10:28:22:947 -- [folder processing started]
+13/03/2024 10:28:23:028 -- [checking the entered path]
+13/03/2024 10:28:23:029 -- [check failed (Exception): the object at the entered path is not a folder]
